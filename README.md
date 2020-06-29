@@ -50,6 +50,7 @@ Firefox has a great set of first issues to start learning how to work with their
 #### Chrome
 
 ## crypto
+-[ Bruce Schneir's Crypto Blog](https://www.schneier.com/crypto-gram/)- A good crypto related Blog Site
 
 ## Hadoop Projects
 
@@ -238,3 +239,6 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
 
 ## Write unit tests!
+
+## New Physics Discoveries
+- https://phys.org/physics-news/
