@@ -133,6 +133,10 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Reactive Extensions](http://reactivex.io/intro.html)
 - [Lightbot](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id657638474)
 
+## C++
+- [Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [Reference](https://en.cppreference.com)
+
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Training](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
