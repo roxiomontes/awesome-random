@@ -135,6 +135,7 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Python
 - [Python Documentation](https://docs.python.org/3/)
+- [Python Training](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 ## Go
 - [Awesome Go](https://github.com/avelino/awesome-go)
