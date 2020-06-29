@@ -30,6 +30,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [Rust](https://www.rust-lang.org/learn) - Rust as a language is different. Not because of its fancy syntax or welcoming community, but because of the confidence one gains when writing a program in it. 
 
+- [Java] (https://docs.oracle.com/javase/tutorial/)
+
 
 ## Front-End Development
 
@@ -63,6 +65,10 @@ Firefox has a great set of first issues to start learning how to work with their
 
 - [Big Data Article](https://journalofbigdata.springeropen.com/articles) - The Journal of Big Data publishes high-quality, scholarly research papers, methodologies and case studies covering a broad range of topics, from big data analytics to data-intensive computing and all applications of big data research.
 
+## MongoDB
+
+- [MongoDB Tutorial] (https://docs.mongodb.com/manual/tutorial/) - The MongoDB tutorials.
+
 ## Blockchain
 - [Blockchain definition](https://en.wikipedia.org/wiki/Blockchain)
 
@@ -90,6 +96,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - https://github.com/Automation-Tools/karate-test-mojo -  Generate integration tests from springboot or jersey source code.
 - https://developers.google.com/web/fundamentals/performance/why-performance-matters - Why performance matters
 - https://pragprog.com/book/tpp/the-pragmatic-programmer - Timeless patterns for thinking about designing good software.
+- http://greenteapress.com/wp/think-java/ - Think Java
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/) 
@@ -231,6 +238,8 @@ Active Opensource libraries for Reinforcement Learning Research
 - [Shania Twain - Man! I Feel Like A Woman](https://www.youtube.com/watch?v=ZJL4UGSbeFg)
 - [Dubstep - Kill the Noise - Pt 1](https://youtu.be/jVfU1DY73Tk)
 - [The Revenge Song - The Magic Flute](https://www.youtube.com/watch?v=YuBeBjqKSGQ)
+- [Shape of you](https://www.youtube.com/watch?v=JGwWNGJdvx8)
+- [Too Good - Breathe Carolina](https://www.youtube.com/watch?v=Mo-pOF5_enw)
 
 ## SELinux
 - http://selinuxproject.org
